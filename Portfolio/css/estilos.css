@@ -1,0 +1,23 @@
+body{
+    background-color: #eeeeee;
+}
+.form-control{
+    background-color: #eeeeee;
+    border: 0;
+    border-bottom: 1px solid #4b4b4b;
+    border-radius: 0px;
+}
+.btn{
+    background-color: black;
+    color: white;
+    border:1px solid black;
+    border-radius: 0px;
+}
+.btn:hover{
+    background-color: white;
+    color: black; 
+}
+footer{
+    background-color: white;
+    padding: 50px;
+}
